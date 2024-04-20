@@ -1,0 +1,23 @@
+{
+    "title": "Something Goes Here",
+    "popups": [
+        {
+            "start": 3,
+            "duration": 1.5,
+            "text": "Hello world",
+            "category": "t",
+            "x": 20,
+            "y": 70,
+            "anchor": "start-of-file"
+        },
+        {
+            "start": 6,
+            "duration": 2.5,
+            "text": "Goodbye sunshine",
+            "category": "f",
+            "x": 80,
+            "y": 40,
+            "anchor": "start-of-file"
+        }
+    ]
+}
